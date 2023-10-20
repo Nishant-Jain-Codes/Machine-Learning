@@ -1,7 +1,7 @@
 ### book progress 
 
 
-- [ ]    [Chapter 1 -- Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+- [x]    [Chapter 1 -- Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
 - [ ]      [Chapter 2 -- Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
 - [ ]      [Chapter 3 -- Functions](https://automatetheboringstuff.com/2e/chapter3/)
 - [ ]      [Chapter 4 -- Lists](https://automatetheboringstuff.com/2e/chapter4/)
