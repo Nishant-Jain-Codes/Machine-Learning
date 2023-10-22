@@ -7,10 +7,14 @@
   - [x]  Hard: Interactive Quiz: Create a Python script that quizzes the user with multiple-choice questions and provides a score at the end.
 - [x]      [Chapter 2 -- Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
   - [x]  Questions
-  - [ ]  Easy: Number Guessing Game: Create a Python program that allows the user to guess a randomly generated number.
-  - [ ]  Medium: Rock-Paper-Scissors Game: Build a text-based game where the user plays against the computer.
-  - [ ]  Hard: Hangman Game: Develop a hangman game where the computer randomly selects a word, and the player must guess the letters.
+  - [x]  Easy: Number Guessing Game: Create a Python program that allows the user to guess a randomly generated number.
+  - [x]  Medium: Rock-Paper-Scissors Game: Build a text-based game where the user plays against the computer.
+  - [x]  Hard: Hangman Game: Develop a hangman game where the computer randomly selects a word, and the player must guess the letters.
 - [ ]      [Chapter 3 -- Functions](https://automatetheboringstuff.com/2e/chapter3/)
+  - [ ] Questions
+  - [ ]  Easy: Calculator: Build a Python command-line calculator that can perform basic arithmetic operations.
+  - [ ]  Medium: Simple To-Do List: Create a command-line to-do list application using Python functions.
+  - [ ]  Hard: Budget Tracker: Build a program that allows users to input income and expenses, providing a summary of their financial situation.
 - [ ]      [Chapter 4 -- Lists](https://automatetheboringstuff.com/2e/chapter4/)
 - [ ]      [Chapter 5 -- Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
 - [ ]      [Chapter 6 -- Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
@@ -31,11 +35,6 @@
 
 ### projects
 
-Chapter 3: Functions
-
-- [ ]  Easy: Calculator: Build a Python command-line calculator that can perform basic arithmetic operations.
-- [ ]  Medium: Simple To-Do List: Create a command-line to-do list application using Python functions.
-- [ ]  Hard: Budget Tracker: Build a program that allows users to input income and expenses, providing a summary of their financial situation.
 
 Chapter 4: Lists
 
