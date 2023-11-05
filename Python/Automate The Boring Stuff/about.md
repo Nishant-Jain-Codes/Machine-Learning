@@ -16,7 +16,7 @@
   - [x]  Medium: Simple To-Do List: Create a command-line to-do list application using Python functions.
   - [x]  Hard: Budget Tracker: Build a program that allows users to input income and expenses, providing a summary of their financial situation.
 - [ ]      [Chapter 4 -- Lists](https://automatetheboringstuff.com/2e/chapter4/)
-  - [ ]      Questions
+  - [ ]  Questions
   - [ ]  Easy: To-Do List: Develop a Python to-do list application with features to add, remove, and view tasks.
   - [ ]  Medium: Grocery Shopping List: Create a program for creating and managing a shopping list.
   - [ ]  Hard: Contact Manager: Build a command-line program to manage contacts, including name, phone number, and email.
@@ -38,13 +38,6 @@
 - [ ]      [Chapter 20 -- Controlling the Keyboard and Mouse with GUI Automation](https://automatetheboringstuff.com/2e/chapter20/)
 
 ### projects
-
-
-Chapter 4: Lists
-
-- [ ]  Easy: To-Do List: Develop a Python to-do list application with features to add, remove, and view tasks.
-- [ ]  Medium: Grocery Shopping List: Create a program for creating and managing a shopping list.
-- [ ]  Hard: Contact Manager: Build a command-line program to manage contacts, including name, phone number, and email.
 
 Chapter 5: Dictionaries and Structuring Data
 
