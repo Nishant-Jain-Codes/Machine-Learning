@@ -10,12 +10,16 @@
   - [x]  Easy: Number Guessing Game: Create a Python program that allows the user to guess a randomly generated number.
   - [x]  Medium: Rock-Paper-Scissors Game: Build a text-based game where the user plays against the computer.
   - [x]  Hard: Hangman Game: Develop a hangman game where the computer randomly selects a word, and the player must guess the letters.
-- [ ]      [Chapter 3 -- Functions](https://automatetheboringstuff.com/2e/chapter3/)
-  - [ ] Questions
-  - [ ]  Easy: Calculator: Build a Python command-line calculator that can perform basic arithmetic operations.
-  - [ ]  Medium: Simple To-Do List: Create a command-line to-do list application using Python functions.
-  - [ ]  Hard: Budget Tracker: Build a program that allows users to input income and expenses, providing a summary of their financial situation.
+- [x]      [Chapter 3 -- Functions](https://automatetheboringstuff.com/2e/chapter3/)
+  - [x] Questions
+  - [x]  Easy: Calculator: Build a Python command-line calculator that can perform basic arithmetic operations.
+  - [x]  Medium: Simple To-Do List: Create a command-line to-do list application using Python functions.
+  - [x]  Hard: Budget Tracker: Build a program that allows users to input income and expenses, providing a summary of their financial situation.
 - [ ]      [Chapter 4 -- Lists](https://automatetheboringstuff.com/2e/chapter4/)
+  - [ ]      Questions
+  - [ ]  Easy: To-Do List: Develop a Python to-do list application with features to add, remove, and view tasks.
+  - [ ]  Medium: Grocery Shopping List: Create a program for creating and managing a shopping list.
+  - [ ]  Hard: Contact Manager: Build a command-line program to manage contacts, including name, phone number, and email.
 - [ ]      [Chapter 5 -- Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
 - [ ]      [Chapter 6 -- Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
 - [ ]      [Chapter 7 -- Pattern Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
